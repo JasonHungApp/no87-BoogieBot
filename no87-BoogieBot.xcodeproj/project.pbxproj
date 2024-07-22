@@ -13,6 +13,7 @@
 		F35E2EF92C4D6FEC00FACE26 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F35E2EF82C4D6FEC00FACE26 /* Base */; };
 		F35E2EFB2C4D6FED00FACE26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F35E2EFA2C4D6FED00FACE26 /* Assets.xcassets */; };
 		F35E2EFE2C4D6FED00FACE26 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F35E2EFD2C4D6FED00FACE26 /* Base */; };
+		F35E2F082C4D70D100FACE26 /* BoogieBot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F35E2F072C4D70D100FACE26 /* BoogieBot.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F35E2EFA2C4D6FED00FACE26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F35E2EFD2C4D6FED00FACE26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F35E2EFF2C4D6FED00FACE26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F35E2F072C4D70D100FACE26 /* BoogieBot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoogieBot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F35E2EFA2C4D6FED00FACE26 /* Assets.xcassets */,
 				F35E2EFC2C4D6FED00FACE26 /* LaunchScreen.storyboard */,
 				F35E2EFF2C4D6FED00FACE26 /* Info.plist */,
+				F35E2F072C4D70D100FACE26 /* BoogieBot.swift */,
 			);
 			path = "no87-BoogieBot";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F35E2F082C4D70D100FACE26 /* BoogieBot.swift in Sources */,
 				F35E2EF62C4D6FEC00FACE26 /* ViewController.swift in Sources */,
 				F35E2EF22C4D6FEC00FACE26 /* AppDelegate.swift in Sources */,
 				F35E2EF42C4D6FEC00FACE26 /* SceneDelegate.swift in Sources */,
